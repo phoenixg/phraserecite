@@ -1,4 +1,4 @@
 phraserecite
 ============
 
-A github repository for reciting English phrases and words
+Just a github repository for reciting English phrases and words
