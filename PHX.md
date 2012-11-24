@@ -12,3 +12,9 @@
 - prior to 在...之前
 - legacy 遗物
 - compromised 妥协
+- decoupling 解耦  
+- robust 健壮的	
+- utility 应用程序
+- tackle 对付
+- inconsequential 不合逻辑的
+- precedent 惯例
