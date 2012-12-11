@@ -18,3 +18,6 @@
 - tackle 对付
 - inconsequential 不合逻辑的
 - precedent 惯例
+- deploy 部署
+
+ 
