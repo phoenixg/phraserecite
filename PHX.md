@@ -21,3 +21,4 @@
 - deploy 部署
 - tedious 单调乏味的
 - repetitive 反复的
+- eliminate 剔除
