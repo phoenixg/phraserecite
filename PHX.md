@@ -19,5 +19,5 @@
 - inconsequential 不合逻辑的
 - precedent 惯例
 - deploy 部署
-
+- tedious 单调乏味的
  
