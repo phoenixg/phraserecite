@@ -22,3 +22,5 @@
 - tedious 单调乏味的
 - repetitive 反复的
 - eliminate 剔除
+- substantially 可观的
+- cumbersome 不方便的
