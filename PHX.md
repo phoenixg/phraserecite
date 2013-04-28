@@ -24,3 +24,5 @@
 - eliminate 剔除
 - substantially 可观的
 - cumbersome 不方便的
+- concrete 具体的（反义词是abstract）
+- compelling 扣人心弦的
