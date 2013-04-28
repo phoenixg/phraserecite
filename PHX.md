@@ -26,3 +26,4 @@
 - cumbersome 不方便的
 - concrete 具体的（反义词是abstract）
 - compelling 扣人心弦的
+- mandatory 法定的，具有强制性的
