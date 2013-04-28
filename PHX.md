@@ -27,3 +27,4 @@
 - concrete 具体的（反义词是abstract）
 - compelling 扣人心弦的
 - mandatory 法定的，具有强制性的
+- semantically 语义上
